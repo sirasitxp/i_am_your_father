@@ -2,7 +2,7 @@ I am your father
 
 This is part of coursework from London App Brewery.
 
-!(/images/screenshot.png)
+!(/Users/macos/AndroidStudioProjects/i_am_your_father/images/screenshot.png)
 
 This is a flutter app that demonstrates how to:
 
